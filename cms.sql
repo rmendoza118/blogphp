@@ -23,7 +23,7 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
--- Table structure for table `articulos`
+-- Table estructura for table `articulos`
 --
 
 CREATE TABLE `articulos` (
